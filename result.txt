@@ -1,0 +1,36 @@
+iemployees=19   jemployees=20   kemployees=20
+iemployees=18   jemployees=20   kemployees=20
+iemployees=17   jemployees=20   kemployees=20
+iemployees=16   jemployees=20   kemployees=20
+iemployees=15   jemployees=20   kemployees=20
+buildings[0] done = 5
+JobsMonday.size()=5
+iemployees=14   jemployees=19   kemployees=20
+iemployees=13   jemployees=18   kemployees=20
+buildings[1] done = 2
+JobsMonday.size()=7
+iemployees=12    jemployees=17    kemployees=19
+iemployees=11    jemployees=16    kemployees=18
+iemployees=10    jemployees=15    kemployees=17
+iemployees=9    jemployees=14    kemployees=16
+iemployees=8    jemployees=13    kemployees=15
+buildings[2] done = 5
+JobsMonday.size()=12
+WholeWeek.size()=1
+iemployees=7   jemployees=13   kemployees=15
+iemployees=6   jemployees=13   kemployees=15
+iemployees=5   jemployees=13   kemployees=15
+iemployees=4   jemployees=13   kemployees=15
+iemployees=3   jemployees=13   kemployees=15
+buildings[0] done = 5
+JobsMonday.size()=17
+iemployees=2   jemployees=12   kemployees=15
+iemployees=1   jemployees=11   kemployees=15
+buildings[1] done = 2
+JobsMonday.size()=19
+iemployees=0    jemployees=10    kemployees=14
+Error: No more personnel available
+buildings[2] done = 1
+buildings[2] done = 1
+JobsMonday.size()=20
+WholeWeek.size()=2
